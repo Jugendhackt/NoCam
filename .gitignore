@@ -1,0 +1,13 @@
+*.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/NoCam.iml
+.idea/vcs.xml
+.idea/workspace.xml
+captures/SystemInfo_2016.02.09_16.59.06.txt
+captures/SystemInfo_2016.02.09_17.33.32.txt
+captures/SystemInfo_2016.02.09_17.49.47.txt
+captures/SystemInfo_2016.02.09_18.06.27.txt
